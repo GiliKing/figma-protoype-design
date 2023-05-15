@@ -1,0 +1,16 @@
+
+My first observation is that have a button that will 
+pop out the modal is quit difficult trying to create 
+because the focus of the box will be lost if the focus 
+is directed to the learn more button. To solve this issue
+
+I develop an alternative method to put the button outside the
+focus to allow it to be clickable.
+
+Using gulp to minify js and scss may not be the best because
+some gulp scripts and modules are being abandoned and depreciated
+
+
+I spent 78 hours in total developing this project.
+
+Overall it being a nice challenge thanks.
